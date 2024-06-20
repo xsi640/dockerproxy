@@ -7,6 +7,7 @@ redis:6-alpine
 semitechnologies/weaviate:1.19.0
 langgenius/dify-sandbox:0.2.1
 ubuntu/squid:latest
+localai/localai:latest-aio-gpu-nvidia-cuda-12
 nginx:latest
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
