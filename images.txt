@@ -17,4 +17,6 @@ nginx:latest
 gcr.io/kaniko-project/executor:debug
 busybox:1.32.0
 alpine:3.18
-freepbx/freepbx
+tiredofit/freepbx
+tiredofit/mariadb
+tiredofit/db-backup
