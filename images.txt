@@ -20,3 +20,4 @@ alpine:3.18
 tiredofit/freepbx
 tiredofit/mariadb
 tiredofit/db-backup
+flowable/all-in-one
